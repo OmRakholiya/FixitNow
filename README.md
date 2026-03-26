@@ -178,8 +178,6 @@ REACT_APP_ENV=development
 - Safari (latest)
 - Edge (latest)
 
-##
-email -savanidaksh7@gmail.com 
 
 
 
