@@ -1,4 +1,4 @@
-# FixItNow Frontend
+# FixItNow
 
 A modern React.js frontend for the Smart Complaint & Maintenance Portal with role-based access control and real-time features.
 
